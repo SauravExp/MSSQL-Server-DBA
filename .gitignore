@@ -1,0 +1,11 @@
+   # Local config
+   *.env
+   config*.json
+
+   # Build artifacts
+   bin/
+   obj/
+
+   # System files
+   Thumbs.db
+   .DS_Store
